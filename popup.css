@@ -1,0 +1,20 @@
+.popup{
+    font-family:monospace;
+    padding: 10px;
+    position: relative;
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+p {
+    margin: 10px;
+    font-size: 14px;
+}
+
+a {
+    display: block;
+    margin: auto;
+    color: #45b6fe;
+    font-size: 12px;
+}

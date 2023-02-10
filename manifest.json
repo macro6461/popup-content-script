@@ -1,0 +1,21 @@
+{
+    "name": "Popup and Content Script",
+    "description": "How to use a content script with a popup",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "permissions": [
+        "webRequest",
+        "scripting",
+        "activeTab",
+        "clipboardRead",
+        "clipboardWrite",
+        "tabs"
+    ],
+    "host_permissions": [
+        "https://medium.com/p/*"
+    ],
+    "action":{
+        "default_title": "Popup and Content Script",
+        "default_popup": "popup.html"
+    }
+}
