@@ -1,4 +1,4 @@
-Popup With Content Script
+# Popup With Content Script
 
 This is the source code for my Medium blog post, "How to Use A Content Script with a Popup In Your Chrome Extension".
 
